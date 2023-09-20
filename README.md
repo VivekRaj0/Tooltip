@@ -5,6 +5,9 @@ A simple tooltip component such that whenever we hover the button, it will show 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
+## Hosted URL
+https://frabjous-rolypoly-1915c3.netlify.app/
+
 Available Scripts
 In the project directory, you can run:
 
